@@ -7,7 +7,7 @@
     "ds4-dump": "bin/ds4-dump.js"
   },
   "dependencies": {
-    "node-hid": "^0.7"
+    "node-hid": "^3.0"
   },
   "devDependencies": {},
   "scripts": {
